@@ -1,0 +1,22 @@
+Installation
+
+Clone the repository:
+git clone https://github.com/yourusername/cybersecurity-log-analyzer.git
+cd cybersecurity-log-analyzer
+Install dependencies:
+pip install -r requirements.txt
+Run the program:
+python main.py
+
+
+Sample Output
+=== Cybersecurity Log Analysis Report ===
+
+Total failed login attempts: 8
+
+Suspicious IP addresses:
+- 192.168.1.50 => 5 failed attempts
+- 10.0.0.8 => 3 failed attempts
+
+Potential brute-force activity detected from:
+- 192.168.1.50
