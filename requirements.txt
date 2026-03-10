@@ -1,1 +1,3 @@
 
+```text
+# No external dependencies required
